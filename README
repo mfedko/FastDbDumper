@@ -1,1 +1,4 @@
-This file was created by IntelliJ IDEA 12.1.3 for binding GitHub repository
+- overview your database structure, checking database foreign key constraints 
+- tick insterested tables to create structure for 
+- optionally pass WHERE clause for data selection (default is WHERE PK=0, and PK is table primary key) 
+- generate DDL and start data insert scripts

@@ -1,0 +1,10 @@
+apply plugin: 'groovy'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    compile 'org.hibernate:hibernate-tools:4.0.0-CR1'
+}
