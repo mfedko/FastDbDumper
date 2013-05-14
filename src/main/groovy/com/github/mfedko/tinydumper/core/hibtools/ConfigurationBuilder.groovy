@@ -45,5 +45,7 @@ class ConfigurationBuilder {
                     haltonerror: "false"
             )
         }
+
+        println "DDL:\n ${new File(tmpDest, 'model_ddl.sql').text}"
     }
 }
