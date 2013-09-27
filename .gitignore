@@ -2,3 +2,4 @@
 .idea
 .gradle
 classes
+atlassian-ide-plugin.xml

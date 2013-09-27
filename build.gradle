@@ -20,7 +20,7 @@ dependencies {
     compile group: 'org.slf4j', name: 'log4j-over-slf4j', version:'1.6.4'
     compile group: 'ch.qos.logback', name: 'logback-classic', version:'1.0.6'
     compile 'org.hibernate:hibernate-tools:4.0.0-CR1',
-            'org.codehaus.groovy:groovy-all:2.1.3',
+            'org.codehaus.groovy:groovy-all:2.1.7',
             'org.apache.ant:ant:1.9.0',
             'commons-lang:commons-lang:2.6',
             'commons-io:commons-io:2.2'
